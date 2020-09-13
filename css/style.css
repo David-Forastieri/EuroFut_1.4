@@ -1,0 +1,139 @@
+/*estilo en head*/
+header {
+  background-color: #0A414F; }
+
+h1 {
+  margin-bottom: 0rem;
+  color: #F6A031;
+  font-style: italic;
+  font-size: 100px; }
+
+/*estilos del navegador*/
+nav {
+  background-color: #0A414F; }
+
+.navbar {
+  padding: 0 1rem 0 1rem; }
+
+/*estilos de la tabla*/
+.table-blue {
+  background-color: #0A414F;
+  margin-top: 20px; }
+
+.home_tabla {
+  background-color: #C3C2F3; }
+
+.home_h3 {
+  text-align: center;
+  color: #0A414F;
+  font-family: 'Coda Caption', sans-serif;
+  margin-top: 20px; }
+
+.th-home {
+  color: #0A414F; }
+
+.tabla_h3 {
+  color: #0A414F;
+  font-family: 'Coda Caption', sans-serif;
+  margin-top: 20px;
+  text-align: center; }
+
+tr th {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration-line: underline; }
+
+tr td {
+  color: #F76D07;
+  text-align: center; }
+
+/*seccion de contenidos*/
+h2 {
+  color: #0A414F;
+  font-family: 'Anton', sans-serif;
+  font-size: 50px;
+  padding-top: 50px;
+  text-align: center;
+  text-decoration-line: underline; }
+
+.section_imagenPrincipal {
+  text-align: center; }
+
+p {
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 25px;
+  padding: 40px; }
+
+/*seccion de mas noticias*/
+#mas_noticias {
+  background-color: #0A414F; }
+
+#mas_noticias h4 {
+  color: #FFFFFF;
+  font-size: 30px;
+  margin-bottom: 20px;
+  margin-top: 20px; }
+
+#mas_noticias li {
+  margin-bottom: 50px;
+  overflow: hidden;
+  position: relative; }
+
+.info {
+  background: rgba(0, 0, 0, 0.5);
+  bottom: 0;
+  color: #FFF;
+  display: none;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#50000000,endColorstr=#50000000);
+  padding: 10px;
+  position: absolute;
+  width: auto;
+  z-index: 10; }
+
+#mas_noticias li:hover .info {
+  display: block; }
+
+/*footer de enlaces*/
+.card {
+  background-color: #0A414F;
+  border-style: none; }
+
+#ancla {
+  background-color: #0A414F;
+  padding-top: 50px; }
+
+#ancla a {
+  color: #0A414F; }
+
+#ancla li {
+  color: #000000;
+  display: inline-block; }
+
+/*estilos del formulario*/
+#datos {
+  background-color: #C3C2F3;
+  padding-top: 10px; }
+
+form {
+  padding-top: 50px;
+  padding-bottom: 50px; }
+
+.form-group {
+  color: #0A414F;
+  font-size: 20px; }
+
+.form-group input {
+  border: solid 2px;
+  border-radius: 5px; }
+
+.boton {
+  background-color: #0A414F;
+  color: #FFFFFF;
+  margin-top: 30px;
+  width: 300px; }
+
+.flecha {
+  background-color: #0A414F; }
